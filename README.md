@@ -3,7 +3,7 @@
 [![](https://img.shields.io/discord/918257651392061500.svg?logo=discord&colorB=7289DA)](https://discord.gg/HAWGmStksa)
 
 ## Installation 🤖
-
+* Installez Python <a>https://www.python.org/downloads/</a>.
 * Insérez vos configs dans le fichier `configs`.
 * Lancez un invite de commande dans le fichier (https://cdn.discordapp.com/attachments/882029855611449395/952648853276983407/unknown.png).
 * Ensuite Insérez `py main.py` et faites Entrer.
